@@ -12,21 +12,23 @@
 
 在f12 network处 或 url栏  会出现视频id值
 
-![image-20240301182815697](C:\Users\s\AppData\Roaming\Typora\typora-user-images\image-20240301182815697.png)
+![image-20240301182815697](https://gitee.com/yuejinjianke/tuchuang/raw/master/image/image-20240301182815697.png)
 
 即在此处进行填入
 
-![image-20240301182919410](C:\Users\s\AppData\Roaming\Typora\typora-user-images\image-20240301182919410.png)
+![image-20240301182919410](https://gitee.com/yuejinjianke/tuchuang/raw/master/image/image-20240301182919410.png)
 
 
 
 附上最后效果图
 
-![image-20240301182958710](C:\Users\s\AppData\Roaming\Typora\typora-user-images\image-20240301182958710.png)
+![image-20240301182958710](https://gitee.com/yuejinjianke/tuchuang/raw/master/image/image-20240301182958710.png)
 
-![image-20240301183021296](C:\Users\s\AppData\Roaming\Typora\typora-user-images\image-20240301183021296.png)
+![image-20240301183021296](https://gitee.com/yuejinjianke/tuchuang/raw/master/image/image-20240301183021296.png)
 
-![image-20240301183029087](C:\Users\s\AppData\Roaming\Typora\typora-user-images\image-20240301183029087.png)
+![image-20240301183029087](https://gitee.com/yuejinjianke/tuchuang/raw/master/image/image-20240301183029087.png)
+
+
 
 
 原文链接
