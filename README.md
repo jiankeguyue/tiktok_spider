@@ -6,7 +6,7 @@
 
 首先在config.py里填写cookie字段
 
-![image-20240301182658129](C:\Users\s\AppData\Roaming\Typora\typora-user-images\image-20240301182658129.png)
+![image-20240301182658129](https://gitee.com/yuejinjianke/tuchuang/raw/master/image/image-20240301182658129.png)
 
 其次在网页版登录抖音后搜索关键词点进想要爬取评论的视频
 
